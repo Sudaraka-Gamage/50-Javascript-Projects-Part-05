@@ -6,6 +6,7 @@
 ![Screenshot (1981)](https://user-images.githubusercontent.com/86683029/194776262-db76dc6b-e1ba-44b7-ad70-b4be43749c8f.png)
 ![Screenshot (1982)](https://user-images.githubusercontent.com/86683029/194776276-6b7b88af-0f30-41e4-8ed7-8cba29b36fbd.png)
 ![Screenshot (1983)](https://user-images.githubusercontent.com/86683029/194776286-16a2fa7d-c4fa-4544-adab-50bd26e7a6a0.png)
+![Screenshot (1984)](https://user-images.githubusercontent.com/86683029/194776289-84ed64b7-4b9d-4fe1-b929-8b4d85b2e6bf.png)
 
 # image-carousel
 
