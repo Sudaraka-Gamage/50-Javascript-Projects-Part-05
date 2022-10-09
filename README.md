@@ -1,4 +1,3 @@
-# 50-Javascript-Projects-Part-05
 # hidden-search
 # hoverboard
 # image-carousel
