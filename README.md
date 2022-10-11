@@ -9,6 +9,9 @@
 ![Screenshot (1984)](https://user-images.githubusercontent.com/86683029/194776289-84ed64b7-4b9d-4fe1-b929-8b4d85b2e6bf.png)
 
 # image-carousel
+![Screenshot (1985)](https://user-images.githubusercontent.com/86683029/195039259-2de31755-957d-43f4-af2d-220e1b3e8b74.png)
+![Screenshot (1986)](https://user-images.githubusercontent.com/86683029/195039286-03d9d9f7-c3b2-46c1-97bd-b8ea0da42617.png)
+![Screenshot (1987)](https://user-images.githubusercontent.com/86683029/195039302-af18bab4-0bb4-454f-b8ff-edad5903767a.png)
 
 # increment-counter
 
