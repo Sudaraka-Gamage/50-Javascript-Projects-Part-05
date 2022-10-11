@@ -14,6 +14,9 @@
 ![Screenshot (1987)](https://user-images.githubusercontent.com/86683029/195039302-af18bab4-0bb4-454f-b8ff-edad5903767a.png)
 
 # increment-counter
+![Screenshot (1989)](https://user-images.githubusercontent.com/86683029/195039523-d8dca6de-2232-4877-9f6b-77af1dafbda2.png)
+![Screenshot (1990)](https://user-images.githubusercontent.com/86683029/195039528-d16335b5-3cd2-4428-a7b0-12055fca5387.png)
+![Screenshot (1988)](https://user-images.githubusercontent.com/86683029/195039532-e55e8b95-2b2a-423c-a83c-ce908893fc5b.png)
 
 # insect-catch-game
 
