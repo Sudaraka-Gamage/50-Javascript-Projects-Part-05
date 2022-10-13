@@ -22,4 +22,6 @@
 ![Screenshot (1991)](https://user-images.githubusercontent.com/86683029/195511913-70ecc701-d4a7-4d12-a60f-49bd8c05aab3.png)
 ![Screenshot (1992)](https://user-images.githubusercontent.com/86683029/195511921-b59f1dc2-c0b8-4bf9-9deb-b0b779530bfc.png)
 ![Screenshot (1993)](https://user-images.githubusercontent.com/86683029/195511935-484248b5-6442-457b-9293-284fab74e78f.png)
+![Screenshot (1994)](https://user-images.githubusercontent.com/86683029/195511986-b4068651-1c4e-4801-8137-0bf69ec2f071.png)
+![Screenshot (1995)](https://user-images.githubusercontent.com/86683029/195511993-687a923d-7985-4a2d-9b78-6043bc832fbd.png)
 
