@@ -19,4 +19,7 @@
 ![Screenshot (1988)](https://user-images.githubusercontent.com/86683029/195039532-e55e8b95-2b2a-423c-a83c-ce908893fc5b.png)
 
 # insect-catch-game
+![Screenshot (1991)](https://user-images.githubusercontent.com/86683029/195511913-70ecc701-d4a7-4d12-a60f-49bd8c05aab3.png)
+![Screenshot (1992)](https://user-images.githubusercontent.com/86683029/195511921-b59f1dc2-c0b8-4bf9-9deb-b0b779530bfc.png)
+![Screenshot (1993)](https://user-images.githubusercontent.com/86683029/195511935-484248b5-6442-457b-9293-284fab74e78f.png)
 
